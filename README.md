@@ -64,5 +64,132 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-brainiall-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://brainiall.com/
+Brainiall provides industrial AI autopilot solutions, delivering full‑stack artificial intelligence across energy, process industries, manufacturing, and mining. Their platform offers domain‑specific AI agents and fine‑tuned models for regulated sectors where precision and reliability are critical. By unifying data ingestion, model training, and real‑time inference, Brainiall enables enterprises to optimize operations, reduce downtime, and accelerate innovation.
+
+**Areas:** AI · Industrial · Energy · Automation · MachineLearning
+
+## brainiall-com on APIs.io
+
+Everything profiled for brainiall-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/brainiall-com/](https://apis.io/providers/brainiall-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Brainiall API](https://apis.io/apis/brainiall-com/brainiall-api/) — API for Brainiall's industrial AI platform.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Brainiall Com Context](https://apis.io/jsonld/brainiall-com/brainiall-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [brainiall-com API Rules](https://apis.io/rules/brainiall-com/brainiall-com-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Brainiall Com Authentication](https://apis.io/security/brainiall-com/brainiall-com-authentication/)
+- [Brainiall Com Domain Security](https://apis.io/security/brainiall-com/brainiall-com-domain-security/)
+- [Brainiall Com Trust Center](https://apis.io/security/brainiall-com/brainiall-com-trust-center/)
+- [Brainiall Com Vulnerability Disclosure](https://apis.io/security/brainiall-com/brainiall-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Brainiall Com Scopes](https://apis.io/scopes/brainiall-com/brainiall-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Brainiall Com Plans Pricing](https://apis.io/plans/brainiall-com/brainiall-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Brainiall Com Rate Limits](https://apis.io/rate-limits/brainiall-com/brainiall-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://brainiall.com/)
+- [Documentation](https://www.brainiall.com/docs)
+- [Getting started](https://app.brainiall.com/en/quickstart)
+- [API reference](https://app.brainiall.com/openapi.json)
+- [Pricing](https://www.brainiall.com/pricing)
+- [Sign up](https://app.brainiall.com)
+- [Support](https://www.brainiall.com/en/support-consulting)
+- [Changelog](https://www.brainiall.com/changelog)
+- [Blog](https://blog.brainiall.com/)
+- [Security](https://www.brainiall.com/trust)
+- [Compliance](https://www.brainiall.com/en/trust)
+- [Terms of service](https://www.brainiall.com/terms)
+- [Privacy policy](https://www.brainiall.com/privacy)
+- [GitHub](https://github.com/brainiall)
+- [Status](https://www.brainiall.com/status)
+
+## API Evangelist rating
+
+**Kin Score 57.8** — strong · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 14.7 |
+| Contract governance | 70.9 |
+| Operational transparency | 66.3 |
+| Developer ergonomics | 70.7 |
+| Access clarity | 60.5 |
+
+**Agent readiness 18.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | documented (partial credit) |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 40.8** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/brainiall-com/](https://apis.io/providers/brainiall-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for brainiall-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/brainiall-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
